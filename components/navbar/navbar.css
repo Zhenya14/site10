@@ -2,3 +2,11 @@
     background-color: lime;
     height: 100px;
 }
+.navbar2 {
+    position: absolute;
+    top: 140px;
+    left: 400px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow:  10px 10px 5px 6px rgba(0,0,0,0.75);
+}
