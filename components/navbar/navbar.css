@@ -1,6 +1,14 @@
 .navbar {
+    display: flex;
+    align-items: center;
     background-color: lime;
-    height: 100px;
+    height: 120px;
+    border-radius: 16px 16px 0px 0px;
+    justify-content: space-between;    
+}
+.navbar a {
+    margin: 50px;
+    text-decoration: none;
 }
 .navbar2 {
     position: absolute;
@@ -9,4 +17,9 @@
     background-color: white;
     border-radius: 20px;
     box-shadow:  10px 10px 5px 6px rgba(0,0,0,0.75);
+}
+img {
+    padding: 50px;
+    height: 50px;
+    border-radius: 80px;
 }
