@@ -38,3 +38,25 @@ body {
     display: block;
     margin: 20px auto;
 }
+.dg {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.dg-item {
+    display: flex;
+}
+.text {
+    font-size: 14px;
+}
+.pt4 {
+    padding-top: 4px;
+}
+.characteristics-name {
+    color: #0000008a;
+}
+.full-height {
+    height: 100%;
+}
+.mr8 {
+    margin-right: 8px;
+}
