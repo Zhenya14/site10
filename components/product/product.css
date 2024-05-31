@@ -1,5 +1,5 @@
 body {
-    background-color: aqua;
+    background: linear-gradient(to bottom right, blue, pink);
 }
 .product-item {
     height: 300px;
