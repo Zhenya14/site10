@@ -69,11 +69,7 @@ body {
 .mr8 {
     margin-right: 8px;
 }
-.svg {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .Price_price__KKCnw {
     padding: 30px;
     font-size: 28px;
@@ -82,6 +78,65 @@ body {
 h1 {
     padding: 30px;
 }
-.icon {
-    padding: 30px;
+.fz14  {
+    font-size: 14px;
+
+}
+.aic {
+    align-items: center;
+}
+.price_button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    background-color: #ff7d2d;
+    width: 220px;
+    height: 46px;
+    border-radius: 40px;
+    border: none;
+    color: white;
+}
+.Status_description__r2tSA {
+    line-height: 16px;
+    height: 26px;
+    border-radius: 20px;
+    display: inline-flex;
+    padding: 0 8px 0 4px;
+    color: var(--color-success);
+    background-color: #f6f7f7;
+}
+:root {
+    --color-success: #57ae00;
+}
+.Description_code__pNMOz {
+    position: absolute;
+    right: 50px;
+    font-size: 14px;
+    color: var(--color-gray-text);
+    line-height: 17px;
+}
+.fz12 {
+    font-size: 12px;
+}
+.aic {
+    align-items: center;
+}
+.df {
+    display: flex;
+}
+.Description_code__pNMOz svg {
+    margin: 10px;
+}
+.PaymentMethods_paymentsTitle__EM0v5 {
+    font-size: 16px;
+    line-height: 18px;
+}
+.PaymentMethods_paymentsTitle__EM0v5 {
+line-height: 18px;
+color: var(--color-black-text);
+margin-bottom: 12px;
+}
+.f-secodary {
+    font-size: 14px;
 }
