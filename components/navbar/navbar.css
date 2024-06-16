@@ -30,6 +30,7 @@ img {
     position: absolute;
     top: 50px;
     right: 50px;
+    color: blue;
     background-color: yellow;
     width: 100%;
     font-size: 14px;
