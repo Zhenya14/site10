@@ -27,14 +27,12 @@ img {
     border-radius: 80px;
 }
 .text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    background-color: yellow;
     width: 100vw;
     color: white;
     font-size: 14px;
 }
-.p {
-    background-color: yellow;
-}
+
