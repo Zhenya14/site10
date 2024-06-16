@@ -28,9 +28,9 @@ img {
 }
 .text {
     position: absolute;
-    top: 50%;
-    right: 50%;
+    top: 50px;
+    right: 50px;
     background-color: yellow;
-    width: 100vw;
+    width: 100%;
     font-size: 14px;
 }
