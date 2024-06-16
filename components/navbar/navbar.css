@@ -28,6 +28,7 @@ img {
 }
 h3 {
     position: absolute;
+    color: lime;
     left: 50px;
     font-size:14px;
 }
