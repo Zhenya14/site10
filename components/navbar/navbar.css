@@ -26,9 +26,11 @@ img {
     height: 50px;
     border-radius: 80px;
 }
-.text{
-    text-align: center;
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: white;
-    background-color: blue;
+    background-color: yellow;
     font-size: 14px;
 }
