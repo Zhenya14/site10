@@ -28,12 +28,10 @@ img {
 }
 .text {
     position: absolute;
+    color: blue;
     top: 50%;
     right: 50%;
     background-color: yellow;
     width: 100vw;
     font-size: 14px;
-}
-h3 {
-    color: blue;
 }
