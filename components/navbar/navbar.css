@@ -26,3 +26,6 @@ img {
     height: 50px;
     border-radius: 80px;
 }
+p {
+    text-align: center;
+}
