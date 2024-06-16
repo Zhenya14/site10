@@ -27,12 +27,5 @@ img {
     border-radius: 80px;
 }
 h3 {
-    position: absolute;
-    top: 50%;
-    right: 50%;
-    left: 50%;
-    color: blue;
-    background-color: yellow;
-    width: 100px;
-    height: 30px;
+    text-align: center;
 }
