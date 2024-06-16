@@ -26,6 +26,8 @@ img {
     height: 50px;
     border-radius: 80px;
 }
-p {
+h3 {
     text-align: center;
+    color: white;
+    font-size: 14px;
 }
