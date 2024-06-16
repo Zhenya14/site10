@@ -28,7 +28,6 @@ img {
 }
 .text {
     position: absolute;
-    color: blue;
     top: 50%;
     right: 50%;
     background-color: yellow;
